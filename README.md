@@ -1,1 +1,1 @@
-# AWS-Architecting-For-The-Cloud
+# Architecting-For-The-Cloud
