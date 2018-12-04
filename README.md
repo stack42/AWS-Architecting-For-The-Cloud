@@ -5,11 +5,11 @@
 
 _The Well-Architected Framework has been developed to help cloud architects build secure, high-performing, resilient, and efficient infrastructure for their applications. Based on five pillars — operational excellence, security, reliability, performance efficiency, and cost optimization — the Framework provides a consistent approach for customers and partners to evaluate architectures, and implement designs that will scale over time._
 
-###0) Framework
+### 0) Framework
 
    Download the  Well Architected Framework [whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 
-###1) Operational Excellence
+### 1) Operational Excellence
 
    Download the Operational Excellence [whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS-Operational-Excellence-Pillar.pdf)
 
@@ -25,7 +25,7 @@ _The Well-Architected Framework has been developed to help cloud architects buil
     * Learn from all operational failures
 
 
-###2) Security
+### 2) Security
 
    Download the Security Pillar [whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf)
 
@@ -39,7 +39,7 @@ _The Well-Architected Framework has been developed to help cloud architects buil
     * Prepare for security events
 
 
-###3) Reliability
+### 3) Reliability
 
    Download the Reliability Pillar [whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS-Reliability-Pillar.pdf)
 
@@ -54,7 +54,7 @@ _The Well-Architected Framework has been developed to help cloud architects buil
 
 
 
-###4) Performance Efficiency
+### 4) Performance Efficiency
 
    Download the Performance Efficiency [whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS-Performance-Efficiency-Pillar.pdf)
 
@@ -67,7 +67,7 @@ _The Well-Architected Framework has been developed to help cloud architects buil
     * Mechanical sympathy
 
 
-###5) Cost Optimization
+### 5) Cost Optimization
 
    Download the Cost Optimization [whitepaper](https://d1.awsstatic.com/whitepapers/architecture/AWS-Cost-Optimization-Pillar.pdf)
 
