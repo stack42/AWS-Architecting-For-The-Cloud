@@ -84,6 +84,9 @@ In dept The 5 Pillars of the AWS Well-Architected Framework
 
 https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 
+## Tools
+
+https://aws.amazon.com/well-architected-tool/
 
 ## AWS Git repos
 
