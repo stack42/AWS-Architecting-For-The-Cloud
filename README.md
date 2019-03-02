@@ -73,11 +73,11 @@ _The Well-Architected Framework has been developed to help cloud architects buil
 
    **Design Principles**
 
-    *Adopt a consumption model
-    *Measure overall efficiency
-    *Stop spending money on data center operations
-    *Analyze and attribute expenditure
-    *Use managed services to reduce cost of ownership
+    * Adopt a consumption model
+    * Measure overall efficiency
+    * Stop spending money on data center operations
+    * Analyze and attribute expenditure
+    * Use managed services to reduce cost of ownership
 
 
 In dept The 5 Pillars of the AWS Well-Architected Framework
