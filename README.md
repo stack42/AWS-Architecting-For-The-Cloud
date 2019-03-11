@@ -1,5 +1,19 @@
 # Architecting-For-The-Cloud
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Architecting-For-The-Cloud](#architecting-for-the-cloud)
+	- [The (AWS) Well Architected Framework](#the-aws-well-architected-framework)
+		- [0) Framework](#0-framework)
+		- [1) Operational Excellence](#1-operational-excellence)
+		- [2) Security](#2-security)
+		- [3) Reliability](#3-reliability)
+		- [4) Performance Efficiency](#4-performance-efficiency)
+		- [5) Cost Optimization](#5-cost-optimization)
+	- [Tools And Methods](#tools-and-methods)
+	- [AWS Git repos](#aws-git-repos)
+
+<!-- /TOC -->
 
 ## The (AWS) Well Architected Framework
 
@@ -84,9 +98,16 @@ In dept The 5 Pillars of the AWS Well-Architected Framework
 
 https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 
-## Tools
+## Tools And Methods
+
+AWS Well-Architected Tool, Review your architecture and adopt best practices
 
 https://aws.amazon.com/well-architected-tool/
+
+Vetted, technical reference implementations designed to help you solve
+common problems and build faster.
+
+https://aws.amazon.com/solutions/
 
 ## AWS Git repos
 
